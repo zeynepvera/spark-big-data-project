@@ -1,4 +1,4 @@
-# spark-big-data-project
+[report.pdf](https://github.com/user-attachments/files/25102889/report.pdf)# spark-big-data-project
 
 # Big Data Course Project
 
@@ -76,4 +76,8 @@ These queries are designed to extract meaningful insights from customer data and
 
 ---
 
+## REPORT:
+
+
+[Uploading report.pdf…]()
 
