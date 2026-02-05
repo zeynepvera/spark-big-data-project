@@ -1,6 +1,6 @@
 # spark-big-data-project
 
-# Big Data and Machine Learning Course Project
+# Big Data Course Project
 
 This repository contains my course project covering **MapReduce**, **Machine Learning applications**, and **Advanced SQL queries**.  
 The project focuses on customer churn analysis and big data processing concepts.
