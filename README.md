@@ -76,5 +76,4 @@ These queries are designed to extract meaningful insights from customer data and
 
 ---
 
-## 📂 Project Structure
 
