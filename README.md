@@ -1,4 +1,4 @@
-[report.pdf](https://github.com/user-attachments/files/25102889/report.pdf)# spark-big-data-project
+# spark-big-data-project
 
 # Big Data Course Project
 
